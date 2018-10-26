@@ -1,10 +1,9 @@
 # Garage
-===========================
 
 It is a program which helps  with management of rental company 
 
 ## It allows to:
---------------------
+
 	- add new vehicle of 3 different types with values such as, name, engine etc. defined by a user. 
 	- doesn't allow to put incorrect data
 	- delete existing vehicles
@@ -17,7 +16,6 @@ It is a program which helps  with management of rental company
 
   
 ## Requirements
---------------------------
 
 	- C++11 compatible compiler (g++ 4.7/4.8)
 	- GNU make
